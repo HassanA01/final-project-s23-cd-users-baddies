@@ -226,7 +226,7 @@ Your Mark: 20 / 20
 
   Your Mark: 0
 
-System Design Total Mark: 6 / 10
+System Design Total Mark: 10 / 10
 
 ## Documentation (max 3 mark)
 
@@ -272,3 +272,5 @@ Your Mark: 14 / 14
 ## Total Mark
 
 84 / 95
+
++ 4 marks for design doc
