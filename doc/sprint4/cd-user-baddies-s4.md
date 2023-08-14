@@ -226,9 +226,9 @@ Your Mark: 20 / 20
   - 1 mark = The Architecture Diagram is present, it is not formatted well, and it is unclear what Architecture it follows. There is no web link or other reference lending support to the presented diagram.
   - 0 marks = No diagram present or the presented document does not look like a software architecture diagram
 
-  Your Mark: 0
+  Your Mark: 4
 
-System Design Total Mark: 6 / 10
+System Design Total Mark: 10 / 10
 
 > You should be uploading diagrams into the .pdf for sys design. Not keep it seperate
 
@@ -274,3 +274,4 @@ Your Mark: 14 / 14
 ## Total Mark
 
 80 / 95
++ 4 marks design doc
