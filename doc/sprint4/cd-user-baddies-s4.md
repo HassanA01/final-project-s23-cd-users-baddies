@@ -64,7 +64,7 @@ Daily Stand-ups Total Mark: 6 / 10
   - 1 mark = one or more Sprint 1 stories are not recorded Jira, or not estimated, or nor broken into tasks, or at least one task not assigned, or at least one team member unassigned a task
   - 0 marks = the majority of Sprint 1 stories not recorded in Jira or not estimated, or nor broken into tasks, or tasks not assigned, or team members unassigned a task
 
-  Your Mark: 1
+  Your Mark: ~~1~~ 0
 
   > subtasks?
 
@@ -74,7 +74,7 @@ Daily Stand-ups Total Mark: 6 / 10
   - 1 mark = two or more stories in Jira Backlog are not point estimated or the point value is not recorded in Jira
   - 0 marks = the majority of stories in Jira Backlog are not point estimated or the point value is not recorded in Jira
 
-  Your Mark: 1
+  Your Mark: ~~1~~ 0
 
   > estimation?
 
@@ -84,7 +84,7 @@ Daily Stand-ups Total Mark: 6 / 10
   - 1 mark = two or more stories in Jira Backlog not are prioritized in the order which matches the priority of their associated milestones]
   - 0 marks = the majority of stories in Jira Backlog appear to be not prioritized in the order which matches the priority of their associated milestones
 
-  Your Mark: 1
+  Your Mark: ~~1~~ 0
 
   > No Priorities listed
 
@@ -96,7 +96,7 @@ Daily Stand-ups Total Mark: 6 / 10
 
   Your Mark: 0
 
-User Stories Total Mark: 5 / 10
+User Stories Total Mark: ~~5~~ 2 / 10
 
 ---
 
@@ -148,7 +148,9 @@ Your Mark: 5
   - 1 mark = one or more commit messages do not begin with the ticket number of the task followed by a short description of commit changes
   - 0 marks = majority of commit message do not begin with the ticket number of the task followed by a short description of commit changes
 
-Your Mark: 2
+Your Mark: ~~2~~ 0
+
+> No ticket number in most commit messages
 
 - Tasks Distribution (max 3 marks)
 
@@ -165,7 +167,9 @@ Your Mark: 2
   - 1 mark = at least one branch is not named after the associated single ticket number
   - 0 marks = most branch names are not named after the associated single ticket number
 
-  Your Mark: 2
+  Your Mark: ~~2~~ 0
+
+> Most not named after ticket number
 
 - Burndown chart (max 2 marks)
 
@@ -180,7 +184,7 @@ Your Mark: 2
   - 1 mark = diagram present, but no critical path or explanations provided, or explanations are not adequate.
   - 0 marks = document not available or not containing a valid diagram
 
-Tracking on JIRA Total Mark: 24 / 24
+Tracking on JIRA Total Mark: ~~24~~ 20 / 24
 
 ---
 
@@ -273,5 +277,4 @@ Your Mark: 14 / 14
 
 ## Total Mark
 
-84 / 95
-+ 4 marks design doc
+~~84~~ 77 / 95 (remarked)
