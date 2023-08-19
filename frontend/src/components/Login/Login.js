@@ -38,16 +38,16 @@ import {
   CardHeader,
   CardBody,Center, Alert, AlertIcon, Grid, GridItem, Select} from '@chakra-ui/react';
   import { ViewIcon, ViewOffIcon } from '@chakra-ui/icons';
-const firebaseConfig = {
-  apiKey: 'CHANGE_WITH_PEROSNAL',
-  authDomain: 'cd-user-baddies.firebaseapp.com',
-  projectId: 'cd-user-baddies',
-  storageBucket: 'cd-user-baddies.appspot.com',
-  messagingSenderId: 'CHANGE_WITH_PEROSNAL',
-  appId: '1:CHANGE_WITH_PEROSNAL:web:5c6ee1f310aec572c34df5',
-  measurementId: 'G-4026EEFZZ3',
-};
-
+  const firebaseConfig = {
+    apiKey: 'CHANGE_WITH_PEROSNAL',
+    authDomain: 'CHANGE_WITH_PEROSNAL',
+    projectId: 'CHANGE_WITH_PEROSNAL',
+    storageBucket: 'CHANGE_WITH_PEROSNAL',
+    messagingSenderId: 'CHANGE_WITH_PEROSNAL',
+    appId: 'CHANGE_WITH_PEROSNAL',
+    measurementId: 'CHANGE_WITH_PEROSNAL',
+  };
+  
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);

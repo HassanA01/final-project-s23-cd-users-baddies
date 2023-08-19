@@ -156,7 +156,7 @@ export class GoogleMapContainer extends Component {
   
 }
 export default GoogleApiWrapper({
-  apiKey: ('CHANGE_WITH_PEROSNAL')
+  apiKey: ('AIzaSyCslCplJhzh8rKxQ0c6xZSv7UlILmWUiys')
 })(GoogleMapContainer)
 
 
